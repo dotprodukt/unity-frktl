@@ -1,0 +1,10 @@
+{
+    "name": "com.dotprodukt.unity-frktl",
+    "description": "A set of tools for working with fractals and stuff.",
+    "version": "0.0.0-preview",
+    "unity": "2018.1",
+    "displayName": "FRKTL",
+    "dependencies": {
+        "com.dotprodukt.unity-fldkt": "0.0.0-preview"
+    }
+}
