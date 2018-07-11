@@ -1,0 +1,11 @@
+{
+    "name": "com.dotprodukt.unity-frktl.Editor",
+    "references": [
+        "com.dotprodukt.unity-frktl.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
